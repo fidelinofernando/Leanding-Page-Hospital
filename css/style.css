@@ -1121,6 +1121,23 @@ img {
 }
 
 @media (max-width: 576px) {
+    .container .logo {
+        font-size: 16px;
+    }
+
+    .header-actions {
+        gap: 14px;
+    }
+
+    .appointment-btn {
+        padding: 8px 18px;
+        font-size: 14px;
+    }
+
+    .menu-toggle {
+        font-size: 20px;
+    }
+
     .hero h1 {
         font-size: 32px;
     }
